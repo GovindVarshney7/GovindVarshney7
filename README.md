@@ -1,4 +1,3 @@
-![MasterHead](https://lh3.googleusercontent.com/Kxtzqgu0heqQN2RavyOVC78UyYMlPgR_FBe_UxYnmVKBdxasXZ3k5-AqwHCvrbuua4wWmuHnLozRkalEXkHr-QaLoSNvVSe6X4KHkLFqp7bOZeqDMVKb85ktoPX6jrlY3ZLWUArPdFuRNPkoNTbXU9tA8qzYnIjssPovb4NoJ93xokz6JBruVj_n6NW1uusw=w1280)
 <h1 align="center">Hi 👋, I'm Govind Varsheny</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
