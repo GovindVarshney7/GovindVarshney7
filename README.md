@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1oBqhlTIMifYBIuiLAk4UjIJoeTBt42xv/view?usp=sharing)](https://codegrills.in)
+[![MasterHead](https://drive.google.com/file/d/1oBqhlTIMifYBIuiLAk4UjIJoeTBt42xv/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm Govind Varsheny</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
