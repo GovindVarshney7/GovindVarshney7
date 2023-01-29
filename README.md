@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GovindVarshney7/MyPortfolio](https://github.com/GovindVarshney7/MyPortfolio)
 
-- 📫 How to reach me **https://www.linkedin.com/in/govind-varshney-818826209**
+- 📫 How to reach me **https://www.linkedin.com/in/govind-varshney**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fsLiixm7EIHPr-oNHEdgPAkdeG3lB-Zk/view?usp=sharing](https://drive.google.com/file/d/1fsLiixm7EIHPr-oNHEdgPAkdeG3lB-Zk/view?usp=sharing)
 
