@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind Varshney</h1>
-<h3 align="center">A passionate Front-end Developer from India</h3>
+<h3 align="center">A passionate Front-End / Java Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/govindvarshney7" target="blank"><img src="https://img.shields.io/twitter/follow/govindvarshney7?logo=twitter&style=for-the-badge" alt="govindvarshney7" /></a> </p>
 
-- 🔭 I’m currently working on **front-end Development**
+- 🔭 I’m currently working on **Front-End Development**
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **projects related to AI**
 
