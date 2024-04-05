@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/govind-varshney**
 
-- ⚡ Fun fact **I think i am funny with lots of code**
+- ⚡ Fun fact **I am funny with lots of code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
